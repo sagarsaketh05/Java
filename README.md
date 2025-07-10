@@ -1,1 +1,1 @@
-This repositary contains a collection of java programms wriiten for learning , pratice, and referecnce purposes.
+This repositary contains a collection of java programms wriiten for learning , practice, and referecnce purposes.
